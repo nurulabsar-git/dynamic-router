@@ -1,0 +1,24 @@
+.news img{
+    height: 80px;
+}
+.news{
+    text-align: center;
+    margin: 8px 5px;
+}
+
+.news nav{
+    background-color: wheat;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    padding: 7px;
+}
+
+nav a:hover{
+    background-color: green;
+}
